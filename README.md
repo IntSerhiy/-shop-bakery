@@ -1,1 +1,1 @@
-# -shop-bakery
+# Shop bakery
